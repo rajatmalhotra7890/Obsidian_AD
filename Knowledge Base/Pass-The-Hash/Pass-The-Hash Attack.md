@@ -83,5 +83,3 @@ mimikatz sekurlsa::pth /user:<compromised user> /domain:<THROWBACK.local /ntlm:<
 
 ### Another ways to pass the hash
 [Blog](https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth/)
-
-EYVVYBVYBFVYBFVBYFBVBFVYFBVYFVYBFBYVY
