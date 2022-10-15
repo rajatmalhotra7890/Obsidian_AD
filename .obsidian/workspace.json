@@ -23,9 +23,11 @@
             "id": "3ea2fc84d2de9ef7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf"
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf"
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md"
               }
             }
           }
@@ -152,15 +154,15 @@
   },
   "active": "3ea2fc84d2de9ef7",
   "lastOpenFiles": [
+    "Knowledge Base/Pass-The-Hash/Use of LSASS process.md",
+    "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
     "Knowledge Base/Tools/2. Bloodhound.md",
     "Knowledge Base/Tools/1. Crackmapexec.md",
-    "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
     "Throwback/Task 23.md",
     "Miscellaneous Results/Mimikatz/Commands.md",
     "Miscellaneous Results/Secrets Harvested.md",
     "Knowledge Base/Pivoting Techniques/3. Chisel.md",
     "Throwback/Task 21.md",
-    "Throwback/Task 22.md",
-    "Miscellaneous Results/Mimikatz/Modules.md"
+    "Throwback/Task 22.md"
   ]
 }
