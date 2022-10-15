@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "ff4040c745a95308",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ddaaa8937d00f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b31d2e932e228c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Tools/2. Bloodhound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea2fc84d2de9ef7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8e48c98d2e2028e",
+    "type": "split",
+    "children": [
+      {
+        "id": "928030285c56e310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45100e9c3f3ed506",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9959a8569409b576",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c173d3fda7f77ddd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7621b4e9db71c49c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31136a42218b9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6678d170578f1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92024c127655fd40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c92d1610a2a6a748",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2397e22a7fae3f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3ea2fc84d2de9ef7",
+  "lastOpenFiles": [
+    "Knowledge Base/Tools/2. Bloodhound.md",
+    "Knowledge Base/Tools/1. Crackmapexec.md",
+    "Knowledge Base/Tools/Bloodhound Cheatsheet.pdf",
+    "Throwback/Task 23.md",
+    "Miscellaneous Results/Mimikatz/Commands.md",
+    "Miscellaneous Results/Secrets Harvested.md",
+    "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+    "Throwback/Task 21.md",
+    "Throwback/Task 22.md",
+    "Miscellaneous Results/Mimikatz/Modules.md"
+  ]
+}
