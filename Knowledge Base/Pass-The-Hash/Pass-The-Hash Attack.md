@@ -57,8 +57,7 @@ crackmapexec smb 192.168.1.105 -u 'Administrator' -p 'Ignite@987' --lsa
 ```
 Tools which can be used for getting hashes
 1. Mimikatz
-![[Pasted image 20221010152506.png]]
-
+[Img](https://github.com/rajatmalhotra7890/Obsidian_AD/blob/main/img/Pasted%20image%2020221010152506.png)
 
 #### There are 2 techniques used for lateral movement for impersonating valid user accounts or service account using hashes
 1. `Pass the hash attack`
