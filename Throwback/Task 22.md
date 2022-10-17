@@ -115,3 +115,9 @@ SMB         10.200.34.222   445    THROWBACK-WS01   [+] THROWBACK.local\BlaireJ:
 - Here we see that we can authenticate ourself by passing the hash to `THROWBACK-WS01` machine. Which means out attack was successful and we successfuly passed the hash to another machine on the network.
 
 
+
+## Questions
+
+1. What two users could successfully pass the hash to THROWBACK-WS01? (In alphabetical order)
+`BlaireJ, HumphreyW`
+

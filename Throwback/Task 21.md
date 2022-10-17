@@ -9,3 +9,9 @@
 - To make segmented networks more like flat networks we use tools such as `Proxychains` or `SShuttle` or even `chisel` which make it easier to compromise other subnets of the LAN and pivot from one subnet in a LAN to another.
 
 [Pivoting with Chisel](obsidian://open?vault=THM%20Networks&file=Knowledge%20Base%2FPivoting%20Techniques%2F3.%20Chisel)
+
+
+## Questions
+
+Read the above and setup your proxy
+
