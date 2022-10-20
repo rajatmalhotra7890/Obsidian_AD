@@ -209,6 +209,15 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ```
 
+DC01 - 10.200.34.117
+```
+
+```
+
+TIME -  10.200.34.176
+```
+
+```
 ## Questions
 
 1. What is the domain name? 

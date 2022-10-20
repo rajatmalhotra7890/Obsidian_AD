@@ -56,3 +56,6 @@ Now that we have the SQLService password we have come to another dead end, we ne
 2. What password was cracked from the retrieved ticket?
 `mysql337570`
 
+
+`Gitbook Token - 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`
+

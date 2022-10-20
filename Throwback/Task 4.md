@@ -29,6 +29,7 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 `TBH{9c5e361a2368723e042924180be7c958}`
 
 10. What is the password reset flag on THROWBACK-TIME?
+`TBH{326e71e82d2cfc439ee513340b8d9222}`
 
 11. What is the root flag on THROWBACK-TIME?
 
