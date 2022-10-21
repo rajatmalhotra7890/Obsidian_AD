@@ -32,8 +32,10 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 `TBH{326e71e82d2cfc439ee513340b8d9222}`
 
 11. What is the root flag on THROWBACK-TIME?
+`TBH{2898c692926188884bf508efe560588f}`
 
 12. What is the SQL flag on THROWBACK-TIME?
+`TBH{ac3f61048236fd398da9e2289622157e}`
 
 13. What is the user flag on THROWBACK-DC01?
 
@@ -41,6 +43,7 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 
 15. What is the account description flag on THROWBACK-DC01?
 `TBH{b89d9a1648b62a7f2ed01038ac47796b}` (Found on Bloodhound)
+
 16. What is the user flag on CORP-DC01?
 
 17. What is the root flag on CORP-DC01?

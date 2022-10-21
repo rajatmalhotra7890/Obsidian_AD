@@ -168,3 +168,6 @@ SID               : S-1-5-21-1142397155-17714838-1651365392-500
 
 - Here we found NTLM hashes for different users as well as cleartext passwords too!
 ![[Pasted image 20221008004113.png]]
+
+MySQL cracked hash for mysql service obtained from THROWBACK-WS01
+``mysql337570``
