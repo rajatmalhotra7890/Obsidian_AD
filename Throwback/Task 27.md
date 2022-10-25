@@ -30,6 +30,20 @@ WDAGUtilityAccount:504:aad3b435b51404eeaad3b435b51404ee:58f8e0214224aebc2c5f82fb
 ```
 
 
-# Disclamer - Crack hashes from crackstation.exe but only include the hash from the third colo (:) 
+# Disclamer - Crack hashes from crackstation.exe but only include the hash from the third colon (:) 
 - Else we can use hashcat too for the same process
+
+
+## Questions
+1. Which user's hashes were we able to dump?
+`Timekeeper`
+
+2. What is the user's hash starting from the third colon?
+`901682b1433fdf0b04ef42b13e343486`
+
+3. What is the administrator's hash starting from the third colon?
+`43d73c6a52e8626eabc5eb77148dca0b`
+
+4. What is the user's cracked password?
+`keeperoftime`
 

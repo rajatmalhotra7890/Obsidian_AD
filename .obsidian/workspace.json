@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b8ac3e8264501fb",
+            "id": "0fa609a3a02c3bca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Throwback/Task 27.md",
+                "file": "Throwback/Task 28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Throwback/Task 27.md",
+                "file": "Throwback/Task 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Throwback/Task 27.md",
+                "file": "Throwback/Task 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Throwback/Task 27.md"
+                "file": "Throwback/Task 28.md"
               }
             }
           }
@@ -139,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0b8ac3e8264501fb",
+  "active": "0fa609a3a02c3bca",
   "lastOpenFiles": [
-    "Throwback/Task 4.md",
-    "Throwback/Task 27.md",
-    "Throwback/Task 28.md",
-    "Miscellaneous Results/Secrets Harvested.md",
+    "Throwback/Task 23.md",
     "Throwback/Task 24.md",
-    "Throwback/Task 25.md",
-    "Knowledge Base/Meterpreter Basic-Intermediate.md",
+    "Throwback/Task 22.md",
+    "Throwback/Task 21.md",
+    "Throwback/Task 20.md",
+    "Knowledge Base/DCSync Attacks Primer.md",
+    "Miscellaneous Results/Secrets Harvested.md",
+    "Throwback/Task 28.md",
     "Throwback/Task 26.md",
-    "Knowledge Base/Excel-Red Team/Macros in Excel.md",
-    "Throwback/Task 7.md"
+    "Throwback/Task 27.md"
   ]
 }

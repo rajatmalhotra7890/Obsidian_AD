@@ -171,3 +171,8 @@ SID               : S-1-5-21-1142397155-17714838-1651365392-500
 
 MySQL cracked hash for mysql service obtained from THROWBACK-WS01
 ``mysql337570``
+
+So we can SSH into timekeeper's machine THROWBACK-TIME and log into the SQL database with this above password
+
+
+### List of users retrieved from the SQL database
