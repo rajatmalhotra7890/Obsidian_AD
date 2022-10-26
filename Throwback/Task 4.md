@@ -38,6 +38,7 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 `TBH{ac3f61048236fd398da9e2289622157e}`
 
 13. What is the user flag on THROWBACK-DC01?
+`TBH{e6119f456f5107d655be3682559f720f}`
 
 14. What is the root flag on THROWBACK-DC01?
 
