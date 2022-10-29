@@ -41,23 +41,29 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 `TBH{e6119f456f5107d655be3682559f720f}`
 
 14. What is the root flag on THROWBACK-DC01?
+`TBH{1b9b614a505017c6fa34cb188581db65}`
 
 15. What is the account description flag on THROWBACK-DC01?
 `TBH{b89d9a1648b62a7f2ed01038ac47796b}` (Found on Bloodhound)
 
 16. What is the user flag on CORP-DC01?
+`TBH{773e16d57284363e68a4db254860aed1}`
 
 17. What is the root flag on CORP-DC01?
+`TBH{d2368a76214103ac670a7984b4dba5a3}`
 
 18. What is the flag on GitHub?
+`TBH{19fa56ead6f82d8c4abc664e2e56f0b1}`
 
 19. What is the user flag on CORP-ADT01?
 
 20. What is the root flag on CORP-ADT01?
 
 21. What is the flag on Twitter?
+`TBH{ca57861454b195f6a5c951a634e05f9e}`
 
 22. What is the flag on LinkedIn?
+`TBH{2913c22315f3ce3c873a14e4862dd717}`
 
 23. What is the flag in the source code of Breach || GTFO?
 

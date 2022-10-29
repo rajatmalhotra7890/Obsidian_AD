@@ -218,6 +218,26 @@ TIME -  10.200.34.176
 ```
 
 ```
+
+![[Pasted image 20221027011740.png]]
+
+CORP-DC01
+```
+
+```
+
+CORP-ADT01
+```
+
+```
+
+TBSEC-DC01
+```
+
+```
+
+
+
 ## Questions
 
 1. What is the domain name? 

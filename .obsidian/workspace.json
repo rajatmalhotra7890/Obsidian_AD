@@ -11,11 +11,28 @@
             "id": "3528102b7582f78c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e1a18d337771bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Tools/1. Crackmapexec.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Throwback/Task 30.md",
+                "file": "Knowledge Base/Tools/1. Crackmapexec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Throwback/Task 30.md",
+                "file": "Knowledge Base/Tools/1. Crackmapexec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Throwback/Task 30.md"
+                "file": "Knowledge Base/Tools/1. Crackmapexec.md"
               }
             }
           }
@@ -132,20 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "45100e9c3f3ed506",
+  "active": "8e1a18d337771bae",
   "lastOpenFiles": [
-    "Miscellaneous Results/Secrets Harvested.md",
-    "Throwback/Task 30.md",
-    "Throwback/Task 28.md",
-    "Throwback/Task 29.md",
-    "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
     "Throwback/Task 4.md",
+    "Throwback/Task 31.md",
+    "Throwback/Task 30.md",
+    "Throwback/Task 29.md",
+    "Knowledge Base/Tools/1. Crackmapexec.md",
     "Miscellaneous Results/Crackmapexec Results.md",
-    "Knowledge Base/Hashcat Rule Based Cracking.md",
-    "Knowledge Base/DCSync Attacks Primer.md",
-    "Knowledge Base/Tools/1. Crackmapexec.md"
+    "Miscellaneous Results/Secrets Harvested.md",
+    "Throwback/Task 17.md",
+    "Throwback/Task 18.md",
+    "Throwback/Task 19.md"
   ]
 }
