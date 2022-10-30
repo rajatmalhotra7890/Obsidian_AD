@@ -20,3 +20,7 @@
 - Starkiller will also report all shell command and modules run on an agent.
 
 ![[Pasted image 20220930153111.png]]
+
+
+## Questions
+Read the above text and familiarize yourself with the menus.

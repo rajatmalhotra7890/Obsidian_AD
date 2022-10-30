@@ -91,3 +91,20 @@ SMB         10.200.34.79    445    TBSEC-DC01       [*] Windows 10.0 Build 17763
 ```
 
 Also check Nmap scan results! I've updated it there as well!
+
+
+
+# Questions
+1. What domain has a trust relationship with THROWBACK.local?
+`corporate.local`
+
+2. What is the hostname of the machine that has a forest trust with the domain controller?
+`CORP-DC01`
+
+3. What is the Administrator account we can use to access the second forest?
+`MercerH`
+
+4. What is the name of the file in the Administrator's Documents folder?
+`server_update.txt`
+
+5. Submit flags for CORP-DC01 in Task 4

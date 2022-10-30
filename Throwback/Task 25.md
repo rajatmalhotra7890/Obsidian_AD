@@ -29,3 +29,13 @@ Now we must remember that there was an email particularly while exploring Murphy
 ![[Pasted image 20221019140850.png]]
 - We enter the credentials with the reset password `PASSWORD` and we're in as Murphyf on Throwback Timekeep machine.
 
+## Questions
+1. What is the hostname of the device?
+`THROWBACK-TIME`
+
+2. What is the title of the web page?
+`Throwback Hacks Timekeep`
+
+3. What user was the password reset for?
+`MurphyF`
+

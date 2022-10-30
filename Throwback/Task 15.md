@@ -53,3 +53,7 @@ pass: password123
 
 We will see the following screen/UI on Starkiller after logging in
 ![[Pasted image 20220930144710.png]]
+
+
+## Questions
+Read the above text and install Starkiller

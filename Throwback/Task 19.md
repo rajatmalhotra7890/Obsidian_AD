@@ -44,3 +44,7 @@ Running `token::elevate`
 
 Running `lsadump::sam`
 ![[Pasted image 20221004115056.png]]
+
+
+## Questions
+Read the above and familiarize yourself with Mimikatz syntax.

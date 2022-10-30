@@ -27,3 +27,7 @@ Now download it locally and use powershell on victim machine (PetersJ) to transp
 
 ## After executing the stager, we get a callback from the machine on our Starkiller listener
 ![[Pasted image 20221004100039.png]]
+
+
+## Questions
+Read the above text and upload an agent to the server.

@@ -68,12 +68,17 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 `TBH{2913c22315f3ce3c873a14e4862dd717}`
 
 23. What is the flag in the source code of Breach || GTFO?
+`TBH{53f3a6cb77f633edd9749926b9a9217b}`
 
 24. What is the flag on the Corporate Mail server?
+`TBH{19b6ca4281bbef3ee060aaf1c2eb4021}`
 
 25. What is the user flag on TBSEC-DC01?
+`TBH{3efabe3366172f3f97d1123f2cc6dfb5}`
 
 26. What is the root flag on TBSEC-DC01?
+`TBH{ec08be8aa9113b47f321b5032a27b220}`
+
 
 
 

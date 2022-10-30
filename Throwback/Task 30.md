@@ -351,5 +351,11 @@ proxychains xfreerdp /u:mercerh /p:'pikapikachu7' /v:10.200.34.117
 - We finally got in!!
 
 
+## Questions
+1. What user has dcsync rights?
+`backup`
 
+2. What user can we dump credentials for and is an administrator?
+`MercerH`
 
+3. Submit flags for THROWBACK-DC01 in Task 4.
