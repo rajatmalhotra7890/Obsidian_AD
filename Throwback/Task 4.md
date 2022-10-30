@@ -56,8 +56,10 @@ Use this task to submit all the flags found in the Throwback Network Lab Environ
 `TBH{19fa56ead6f82d8c4abc664e2e56f0b1}`
 
 19. What is the user flag on CORP-ADT01?
+`TBH{250fd11eadbd01e7ed14196611d7b255}`
 
 20. What is the root flag on CORP-ADT01?
+`TBH{7defa0d5b36c72a48e5966fd2493e19e}`
 
 21. What is the flag on Twitter?
 `TBH{ca57861454b195f6a5c951a634e05f9e}`

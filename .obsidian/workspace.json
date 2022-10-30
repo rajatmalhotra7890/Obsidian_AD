@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "385042385569d387",
+        "id": "98ef97103e965843",
         "type": "tabs",
         "children": [
           {
-            "id": "3528102b7582f78c",
+            "id": "0deacb82502bc752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1a18d337771bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base/Tools/1. Crackmapexec.md",
+                "file": "Throwback/Task 32.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Tools/1. Crackmapexec.md",
+                "file": "Throwback/Task 32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Tools/1. Crackmapexec.md",
+                "file": "Throwback/Task 32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Tools/1. Crackmapexec.md"
+                "file": "Throwback/Task 32.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e1a18d337771bae",
+  "active": "0deacb82502bc752",
   "lastOpenFiles": [
-    "Throwback/Task 4.md",
+    "Knowledge Base/Token Delegation and Impersonation attack.md",
+    "Knowledge Base/DCSync Attacks Primer.md",
+    "Knowledge Base/Pivoting Techniques/3. Chisel.md",
     "Throwback/Task 31.md",
-    "Throwback/Task 30.md",
-    "Throwback/Task 29.md",
+    "Throwback/Task 4.md",
+    "Throwback/Task 32.md",
+    "Knowledge Base/Hashcat Rule Based Cracking.md",
     "Knowledge Base/Tools/1. Crackmapexec.md",
-    "Miscellaneous Results/Crackmapexec Results.md",
-    "Miscellaneous Results/Secrets Harvested.md",
-    "Throwback/Task 17.md",
-    "Throwback/Task 18.md",
-    "Throwback/Task 19.md"
+    "Throwback/Task 30.md",
+    "Throwback/Task 29.md"
   ]
 }
