@@ -1,6 +1,7 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": false,
-  "useMarkdownLinks": false,
-  "newLinkFormat": "relative"
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
