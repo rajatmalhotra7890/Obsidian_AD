@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Throwback/Task 1.md",
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Throwback/Task 1.md",
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Throwback/Task 1.md",
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Throwback/Task 1.md"
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md"
               }
             }
           }
@@ -149,16 +149,31 @@
   },
   "active": "7cea36484d76f421",
   "lastOpenFiles": [
-    "README.md",
-    "Throwback/Task 36.md",
-    "Throwback/Task 33.md",
-    "Throwback/Task 32.md",
-    "Throwback/Task 31.md",
-    "Throwback/Task 30.md",
-    "Throwback/Task 28.md",
-    "Throwback/Task 26.md",
+    "Knowledge Base/Tools/2. Bloodhound.md",
+    "Knowledge Base/Tools/1. Crackmapexec.md",
+    "Knowledge Base/Kerberos Attacks/Kerberos Revision.md",
+    "Knowledge Base/Kerberos Attacks/2. Kerberoasting.md",
+    "Knowledge Base/Kerberos Attacks/1. AS-REP Roasting.md",
+    "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
+    "Knowledge Base/Pass-The-Hash/Use of LSASS process.md",
     "Throwback/Task 25.md",
-    "Throwback/Task 11.md",
-    "Throwback/Task 10.md"
+    "Throwback/Task 26.md",
+    "Throwback/Task 27.md",
+    "Throwback/Task 22.md",
+    "Throwback/Task 21.md",
+    "Throwback/Task 20.md",
+    "Throwback/Task 19.md",
+    "Throwback/Task 18.md",
+    "Throwback/Task 17.md",
+    "Throwback/Task 16.md",
+    "Throwback/Task 15.md",
+    "Throwback/Task 14.md",
+    "Throwback/Task 13.md",
+    "Throwback/Task 12.md",
+    "Throwback/Task 10.md",
+    "Throwback/Task 7.md",
+    "Throwback/Task 2.md",
+    "Throwback/Task 36.md",
+    "Throwback/Task 35.md"
   ]
 }
