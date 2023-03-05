@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md"
+                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "7cea36484d76f421",
   "lastOpenFiles": [
-    "Knowledge Base/Tools/2. Bloodhound.md",
-    "Knowledge Base/Tools/1. Crackmapexec.md",
+    "Knowledge Base/Kerberos Attacks/1. AS-REP Roasting.md",
     "Knowledge Base/Kerberos Attacks/Kerberos Revision.md",
     "Knowledge Base/Kerberos Attacks/2. Kerberoasting.md",
-    "Knowledge Base/Kerberos Attacks/1. AS-REP Roasting.md",
+    "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+    "Knowledge Base/Tools/2. Bloodhound.md",
+    "Knowledge Base/Tools/1. Crackmapexec.md",
     "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
     "Knowledge Base/Pass-The-Hash/Use of LSASS process.md",
     "Throwback/Task 25.md",
@@ -173,7 +174,6 @@
     "Throwback/Task 10.md",
     "Throwback/Task 7.md",
     "Throwback/Task 2.md",
-    "Throwback/Task 36.md",
-    "Throwback/Task 35.md"
+    "Throwback/Task 36.md"
   ]
 }
