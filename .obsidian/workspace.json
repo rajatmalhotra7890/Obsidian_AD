@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md"
+                "file": "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md"
               }
             }
           }
@@ -147,8 +148,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "7cea36484d76f421",
+  "active": "9959a8569409b576",
   "lastOpenFiles": [
+    "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
     "Knowledge Base/Kerberos Attacks/1. AS-REP Roasting.md",
     "Knowledge Base/Kerberos Attacks/Kerberos Revision.md",
     "Knowledge Base/Kerberos Attacks/2. Kerberoasting.md",
@@ -173,7 +175,6 @@
     "Throwback/Task 12.md",
     "Throwback/Task 10.md",
     "Throwback/Task 7.md",
-    "Throwback/Task 2.md",
-    "Throwback/Task 36.md"
+    "Throwback/Task 2.md"
   ]
 }
