@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f344821214293d",
+        "id": "22a0e62d2ee98e2e",
         "type": "tabs",
         "children": [
           {
-            "id": "7cea36484d76f421",
+            "id": "96c3a23fd5ad6a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Throwback/Task 30.md",
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Throwback/Task 30.md",
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Throwback/Task 30.md",
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Throwback/Task 30.md"
+                "file": "Knowledge Base/Pivoting Techniques/3. Chisel.md"
               }
             }
           }
@@ -147,14 +147,15 @@
       "publish:Publish changes": false
     }
   },
-  "active": "45100e9c3f3ed506",
+  "active": "96c3a23fd5ad6a40",
   "lastOpenFiles": [
+    "Knowledge Base/Pivoting Techniques/3. Chisel.md",
+    "Throwback/Task 30.md",
     "Knowledge Base/Pass-The-Hash/Pass-The-Hash Attack.md",
     "Knowledge Base/File Transfer Techniques/2. SCP (Secure Copy File).md",
     "Knowledge Base/Kerberos Attacks/1. AS-REP Roasting.md",
     "Knowledge Base/Kerberos Attacks/Kerberos Revision.md",
     "Knowledge Base/Kerberos Attacks/2. Kerberoasting.md",
-    "Knowledge Base/Pivoting Techniques/3. Chisel.md",
     "Knowledge Base/Tools/2. Bloodhound.md",
     "Knowledge Base/Tools/1. Crackmapexec.md",
     "Knowledge Base/Pass-The-Hash/Use of LSASS process.md",
@@ -173,7 +174,6 @@
     "Throwback/Task 13.md",
     "Throwback/Task 12.md",
     "Throwback/Task 10.md",
-    "Throwback/Task 7.md",
-    "Throwback/Task 2.md"
+    "Throwback/Task 7.md"
   ]
 }
